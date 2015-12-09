@@ -53,7 +53,7 @@ class Str extends Twig_Extension
      */
     public function getName()
     {
-        return 'TwigBridge_Extension_Laravel_String';
+        return 'TwigBridge_Extension_Laravel_Str';
     }
 
     /**
